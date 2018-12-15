@@ -1,0 +1,59 @@
+﻿{"muzikaletleri":[
+  { 
+"alet_id":1, 
+"alet_adi":"Alet Adı 1", 
+"alet_aciklama":"Aletin D" 
+"alet_tur":"doe" 
+"alet_tarihi":"doe" 
+"alet_ogrenme_yasi":"doe" 
+"alet_tel_sayisi":"doe"
+"alet_resim":"doe"  
+"alet_cesitleri":"doe" 
+},
+ { 
+"alet_id":2, 
+"alet_adi":"Doe", 
+"alet_aciklama":"doe" 
+"alet_tur":"doe" 
+"alet_tarihi":"doe" 
+"alet_ogrenme_yasi":"doe" 
+"alet_tel_sayisi":"doe"
+"alet_resim":"doe"  
+"alet_cesitleri":"doe" 
+},
+ { 
+"alet_id":3, 
+"alet_adi":"Doe", 
+"alet_aciklama":"doe" 
+"alet_tur":"doe" 
+"alet_tarihi":"doe" 
+"alet_ogrenme_yasi":"doe" 
+"alet_tel_sayisi":"doe"
+"alet_resim":"doe"  
+"alet_cesitleri":"doe" 
+},
+ { 
+"alet_id":4, 
+"alet_adi":"Doe", 
+"alet_aciklama":"doe" 
+"alet_tur":"doe" 
+"alet_tarihi":"doe" 
+"alet_ogrenme_yasi":"doe" 
+"alet_tel_sayisi":"doe"
+"alet_resim":"doe"  
+"alet_cesitleri":"doe" 
+},
+  { 
+"alet_id":5, 
+"alet_adi":"Doe", 
+"alet_aciklama":"doe" 
+"alet_tur":"doe" 
+"alet_tarihi":"doe" 
+"alet_ogrenme_yasi":"doe" 
+"alet_tel_sayisi":"doe"
+"alet_resim":"doe"  
+"alet_cesitleri":"doe" 
+}
+]}
+
+
