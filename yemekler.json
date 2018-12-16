@@ -1,0 +1,140 @@
+﻿{"yemekler":[
+  { 
+"yemek_id":1, 
+"yemek_adi":"Çiğ Köfte", 
+"yemek_aciklama":"Bulguru tüm taneler ıslanacak kadar az bir kaynar suyla demlendirin.
+ Suyu çekince soğan, sarımsak ve salçayla beş dakika yoğurun.
+ Sıvıyağını, baharatlarını ilave edin ve yoğurabildiğiniz kadar yoğurun.
+ En son limon ve maydanoz ekleyip karıştırın ve servis edin. Baharat ölçülerini vermedim, ağız tadınıza göre belirleyin. Afiyet olsun.", 
+"yemek_tur":"Aperatifler", 
+"yemek_pisirme_suresi":"Değişken", 
+"yemek_hazirlama_suresi":"2 saat", 
+"yemek_kisi_sayisi":"6-8",
+"yemek_resim":"https://i.nefisyemektarifleri.com/2018/12/16/cig-kofte-500x333.jpg",  
+"yemek_malzemeler":"
+ 3 su bardağı çiğ köftelik bulgur
+ büyük soğan rendesi
+ diş sarımsak rendesi
+ yemek kaşığı biber+domates salçası
+ Yarım çay bardağı sıvı yağ
+ Maydanoz
+ İsot
+ Karabiber
+ Kimyon
+ Pul biber
+ Kırmızı toz biber
+ 1 adet limon suyu" 
+},
+   { 
+"yemek_id":2, 
+"yemek_adi":"Etli Kuru Fasülye", 
+"yemek_aciklama":"Kuru baklagillerimizi geceden ıslatmış olmamız pişirme süremizi kısaltacağı için bizim işimizi kolaylaştırıyor
+ bunu hepimiz biliyoruz fakat o gün ıslatamadık gün içerisinde yapmaya karar verdiysek sabahtan yinede pişireceğimiz saate kadar 
+ ıslayalım daha sonra düdüklü tencerede bi on beş dakika kadar haşlayalım ve daha sonra tekrar soğuk suya koyup bir iki saat kadar
+ daha bekletelim.
+ Şimdi yemeğimizin yapılışına gelirsek ;
+
+ İlk olarak etimizi tenceremize alalım ve suyunu salıp çekene kadar pişirelim.
+ Suyunu çektikten sonra yağı ilave edelim ve yemeklik doğradığımız soğanları ekleyip pembeleşinceye kadar kavuralım.
+ Daha sonra rendelediğimiz domatesi de ekleyip bir kaç dakika daha kavuralım ve son olarak salçasını ve fasülyeyi ilave edip dört
+ beş dakika kadar daha kısık ateşte kavuralım.
+ Baharatlarını ve üstünü iki parmak geçecek kadar suyunu ekleyip pişmeye bırakalım.
+ Yaklaşık 30 dakika da pişecektir. Afiyet olsun", 
+"yemek_tur":"Bakliyat Yemekleri", 
+"yemek_pisirme_suresi":"30dk", 
+"yemek_hazirlama_suresi":"10dk", 
+"yemek_kisi_sayisi":"4-6",
+"yemek_resim":"https://i.nefisyemektarifleri.com/2018/12/11/etli-kuru-fasulye-500x333.jpg",  
+"yemek_malzemeler":"
+2 su bardağı nohut (geceden ıslatılmış olsun )
+200 gram dana eti
+1 adet büyük boy soğan
+1 adet domates
+1 yemek kaşığı sıvı yağ
+1 yemek kaşığı tereyağ
+1, 5-2 yemek kaşığı salça
+Tuz karabiber ve pulbiber" 
+},
+  { 
+"yemek_id":3, 
+"yemek_adi":"Ezogelin Çorbası", 
+"yemek_aciklama":"Tencereye tereyağı ve 1 yemek kaşığı sıvı yağ tencereye alınarak ısıtılır.
+Soğan ve sarımsak küçük küçük doğranır ve tencerede kavrulur.
+Üzerine yıkanmış ve suyu süzülmüş olan kırmızı mercimek, pirinç ve bulgur eklenerek kavrulur.
+Üzerine 1lt kadar su ilave edilerek tencerenin kapağı kapatılır ve pişmeye bırakılır.
+Bakliyatlar yumuşayınca ocak kapatılır.
+Ayrı bir yerde 2 yemek kaşığı sıvı yağ ısıtılır. 1 yemek kaşığı un kavrulur. Üzerine 2 yemek kaşığı domates salçası eklenir.
+Salça da kavrulduktan sonra 1 su bardağı kadar su ilave edilerek kaynatılır.
+Nane, kırmızı biber, karabiber ilave edilerek hazırlanan sos ocaktan alınır ve çorbaya ilave edilir.
+Tuzu da eklenerek 1-2 dk kaynatılır.
+Ezogelin Çorbamız servise hazır. Afiyet olsun.
+Not: Gerekirse kıvamını ayarlamak için su ilave edilebilir. Suyun bir kısmını et suyu kullanabilirsiniz.", 
+"yemek_tur":"Çorbalar", 
+"yemek_pisirme_suresi":"40dk", 
+"yemek_hazirlama_suresi":"10dk", 
+"yemek_kisi_sayisi":"4-6",
+"yemek_resim":"https://i.nefisyemektarifleri.com/2009/01/ezogelin-corbasi-tarifi-fotografi.jpg",  
+"yemek_malzemeler":"
+1 su bardağı kırmızı mercimek
+1 Türk kahvesi fincanı bulgur
+Yarım Türk kahvesi fincanı pirinç
+1 orta boy soğan
+1 yemek kaşığı un
+2 yemek kaşığı salça
+2 yemek kaşığı tereyağı
+3 yemek kaşığı sıvı yağ
+2 diş sarımsak
+nane
+kırmızı biber
+karabiber
+tuz" 
+},
+  { 
+"yemek_id":4, 
+"yemek_adi":"İskender", 
+"yemek_aciklama":"Ekmekleri küp küp doğrayıp fırın tepsisine koyuyoruz 180 derecede fırına koyuyoruz kıtır kıtır olsun.
+Sonra etlerimizi hazır aldım ben marketten 3 paketi döktüm fırın tepsisine fırına koydum kıtır kıtır olan ekmekleri çıkardım.
+Üstüne sos yaptım su ve salçayı karıştırıp ekmeklerin üstüne döktüm.
+Etlerimiz pişince ekmeklerin üstüne döktüm.
+Sıvı yağ ve tereyağını küçük tavaya aldım kızarttım etlerin üstüne döktüm.
+Etlerin yanına yoğurt koydum.
+Afiyet olsun.", 
+"yemek_tur":"Et Yemekleri", 
+"yemek_pisirme_suresi":"30dk", 
+"yemek_hazirlama_suresi":"20dk", 
+"yemek_kisi_sayisi":"12-14",
+"yemek_resim":"https://i.nefisyemektarifleri.com/2018/12/14/iskender-15.jpg",  
+"yemek_malzemeler":"
+Alabildiği kadar kaşık yoğurt
+2 yemek kaşığı tereyağı
+1 yemek kaşığı salça
+2 su bardağı su
+Et döner
+Yarım çay bardağı sıvı yağ
+2 tandır ekmek" 
+},
+  { 
+"yemek_id":5, 
+"yemek_adi":"Sütlaç", 
+"yemek_aciklama":"Fırında sütlaç için öncelikle pirinci haşlayalım. Pirinçleri güzelce yıkadıktan sonra 2 su bardağı su ile pişene
+kadar haşlayın. Çok az sulu kalacaktır.
+Diğer malzemeleri ekleyelim ve sütlacı pişirelim. Haşlanan pirinçlerin üzerine sütü, vanilyayı ilave edip kaynatın. Karışım kaynamaya
+başlayınca şekeri ve 1/3 su bardağı sütle karıştırdığınız 3 yemek kaşığı buğday nişastasını ilave ediniz. 10-15 dk daha kaynatıp altını
+kapatın.
+Sütlaçları fırına sürelim. Fırın için uygun ısıya dayanıklı sütlaç kaselerine sütlaçlarınızı paylaştırın. Tepsinize soğuk su doldurun
+ve sütlaç kaplarını fırın tepsinize dizin ( Tepsideki su sütlaç kaplarının yarısına kadar gelecek)Tepsiyi fırınınızın en üst rafına
+yerleştirin. 200 derecede, sütlaçlarınız kızarana kadar fırınlayın. Afiyet olsun.", 
+"yemek_tur":"Tatlılar", 
+"yemek_pisirme_suresi":"1 saat", 
+"yemek_hazirlama_suresi":"10dk", 
+"yemek_kisi_sayisi":"4-6",
+"yemek_resim":"https://i.nefisyemektarifleri.com/2013/02/firin-sutlac.jpg",  
+"yemek_malzemeler":"
+ 1 litre süt
+ 1 su bardağı şeker
+ Yarım su bardağı pirinç
+ 3 yemek kaşığı buğday nişastası
+ 1 paket vanilya
+ 2 su bardağı su"
+}
+]}
