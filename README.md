@@ -1,1 +1,1 @@
-# get data from nefis yemek tarifleri website
+# Data so that shown in recipe app
